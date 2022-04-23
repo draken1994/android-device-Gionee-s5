@@ -45,7 +45,7 @@
 #FMRadio
 /dev/fm                  0660  media       media
 
-#BT SCO CVSD, for MT6572 and MT6582 CVSD codec on AP
+#BT SCO CVSD, for MT6572 and mt6592 CVSD codec on AP
 /dev/ebc                  0660  media       media
 
 # add the read write right of ttyUSB*
@@ -185,3 +185,4 @@
 
 #powerkey monitor hang
 /dev/kick_powerkey        0600   system     system
+
